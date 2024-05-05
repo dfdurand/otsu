@@ -1,0 +1,5 @@
+/__pycache__
+test/__pycache__/__init__.cpython-310.pyc
+test/__pycache__/test_func.cpython-310-pytest-6.2.5.pyc
+src/__pycache__/__init__.cpython-310.pyc
+src/__pycache__/func.cpython-310.pyc
